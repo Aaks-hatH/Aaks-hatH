@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Aaks-hatH!
 
-<!--
-**Aaks-hatH/Aaks-hatH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a student exploring the world of **Cybersecurity** with a strong interest in **OSINT**, **JavaScript**, **Python**, **C**, and **C#**.  
+Currently, I'm learning hacking concepts and tools while balancing my studies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🏫 Cybersecurity student
+- 🔍 Interested in **Open Source Intelligence (OSINT)**
+- 💻 Coding in **JavaScript**, **Python**, **C**, and **C#**
+- 🐧 Comfortable with Linux basics
+- 🕵️‍♂️ Practicing ethical hacking at a steady pace
+
+---
+
+## 🚀 What I'm Working On
+- Improving my OSINT skills and building small research tools
+- Participating in CTFs and security challenges
+- Automating tasks with Python and Bash
+- Learning web application and low-level security fundamentals
+
+---
+
+## 🛠️ Tools & Tech
+- **Languages:** JavaScript, Python, C, C#
+- **OS:** Linux (Kali, Ubuntu), Windows
+- **Security:** TryHackMe, Hack The Box, OSINT Framework
+- **Other:** Git & GitHub, Bash scripting
+
+---
+
+## 📚 Current Learning Goals
+- Deepen my understanding of networking, web, and low-level security
+- Build and share simple OSINT and automation scripts
+- Learn about secure programming practices in C and C#
+- Take notes and document my journey (see pinned repos!)
+
+---
+
+## 📫 Connect with Me
+-https://mail.google.com/mail/?view=cm&to=Hariharanaakshat@gmail.com
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [Awesome OSINT Resources](https://github.com/jivoi/awesome-osint)
+- 
+
+---
+
+_Thanks for stopping by my profile! I'm always open to learning, collaboration, and sharing resources. Happy hacking!_
