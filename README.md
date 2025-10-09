@@ -47,4 +47,4 @@ Currently, I'm learning hacking concepts and tools while balancing my studies.
 
 ---
 
-_Thanks for stopping by my profile! I'm always open to learning, collaboration, and sharing resources. Happy hacking!_
+_Thanks for stopping by my profile! I'm always open to learning, collaboration, and sharing resources. And for your info this account is new. Happy hacking!_
