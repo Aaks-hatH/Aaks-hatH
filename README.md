@@ -40,7 +40,7 @@ Currently, I'm learning hacking concepts and tools while balancing my studies.
 ---
 
 ## 📫 Connect with Me
--https://mail.google.com/mail/?view=cm&to=Hariharanaakshat@gmail.com
+-[https://mail.google.com/mail/?view=cm&to=Hariharanaakshat@gmail.com)
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box](https://www.hackthebox.com/)
 - [Awesome OSINT Resources](https://github.com/jivoi/awesome-osint)
