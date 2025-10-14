@@ -6,16 +6,16 @@ Currently, I'm learning hacking concepts and tools while balancing my studies.
 
 ---
 
-## 👨‍💻 About Me
-- 🏫 Cybersecurity student
-- 🔍 Interested in **Open Source Intelligence (OSINT)**
-- 💻 Coding in **JavaScript**, **Python**, **C**, and **C#**
-- 🐧 Comfortable with Linux basics
-- 🕵️‍♂️ Practicing ethical hacking at a steady pace
+##  About Me
+-  Cybersecurity student
+-  Interested in **Open Source Intelligence (OSINT)**
+-  Coding in **JavaScript**, **Python**, **C**, and **C#**
+-  Comfortable with Linux basics
+-  Practicing ethical hacking at a steady pace
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 - Improving my OSINT skills and building small research tools
 - Participating in CTFs and security challenges
 - Automating tasks with Python and Bash
@@ -23,7 +23,7 @@ Currently, I'm learning hacking concepts and tools while balancing my studies.
 
 ---
 
-## 🛠️ Tools & Tech
+##  Tools & Tech
 - **Languages:** JavaScript, Python, C, C#
 - **OS:** Linux (Kali, Ubuntu), Windows
 - **Security:** TryHackMe, Hack The Box, OSINT Framework
@@ -31,7 +31,7 @@ Currently, I'm learning hacking concepts and tools while balancing my studies.
 
 ---
 
-## 📚 Current Learning Goals
+##  Current Learning Goals
 - Deepen my understanding of networking, web, and low-level security
 - Build and share simple OSINT and automation scripts
 - Learn about secure programming practices in C and C#
@@ -39,7 +39,7 @@ Currently, I'm learning hacking concepts and tools while balancing my studies.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - [TryHackMe](https://tryhackme.com/)
 - [Hack The Box](https://www.hackthebox.com/)
 - [Awesome OSINT Resources](https://github.com/jivoi/awesome-osint)
