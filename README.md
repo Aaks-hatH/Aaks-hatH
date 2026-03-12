@@ -46,15 +46,15 @@ Supports all Chromium-based browsers (Chrome, Edge, Brave, Opera, Vivaldi) on ve
 
 Introduction to Cybersecurity — May 2025
 
-![Introduction to Cybersecurity](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s7.png)
+![Introduction to Cybersecurity](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s1.png)
 
 Fundamentals of Cybersecurity — Jun 2025
 
-![Fundamentals of Cybersecurity](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s6.png)
+![Fundamentals of Cybersecurity](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s2.png)
 
 Learn HTML — Jul 2025
 
-![Learn HTML](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s2.png)
+![Learn HTML](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s6.png)
 
 Fundamentals of Cyber Resilience and Risk Management — Oct 2025
 
@@ -62,7 +62,7 @@ Fundamentals of Cyber Resilience and Risk Management — Oct 2025
 
 Introduction to Ethical Hacking — Nov 2025
 
-![Introduction to Ethical Hacking](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s3.png)
+![Introduction to Ethical Hacking](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s5.png)
 
 Prompt Engineering: Cloud Computing & IoT Hacking in the Era of GenAI — Jan 2026
 
@@ -70,7 +70,7 @@ Prompt Engineering: Cloud Computing & IoT Hacking in the Era of GenAI — Jan 20
 
 Learn Python 3 — Mar 2026
 
-![Learn Python 3](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s5.png)
+![Learn Python 3](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s7.png)
 
 ---
 
